@@ -54,7 +54,7 @@ public class AdvancedCalculator extends Application {
     	
         primaryStage.setTitle("Calculator");
         Group group = new Group();
-        Scene scene = new Scene(group, 390, 230, Color.WHITESMOKE);
+        Scene scene = new Scene(group, 385, 240, Color.WHITESMOKE);
         
         GridPane root = new GridPane();        
         root.setHgap(10);
